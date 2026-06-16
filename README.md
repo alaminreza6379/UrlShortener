@@ -47,8 +47,7 @@ src
 │   │   ├── entity
 │   │   └── dto
 │   └── resources
-│       ├── application.yml
-│       └── static
+│       ├── application.properties
 ```
 
 ---
